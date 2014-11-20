@@ -15,6 +15,8 @@ Informació Relativa als temes de Teoria de l'Assignatura
 
 Informació Relativa a les Activitats de l'Assignatura
 
-* Activitat :three: Desenvolupar un Pla de Negoci Parcialment [go:mag](https://sites.google.com/a/eupmt.tecnocampus.cat/emprenedoriainnovacio10/home/activitats)
-* Activitat :four: Desenvolupar un Pla de Marketing [go:mag](https://sites.google.com/a/eupmt.tecnocampus.cat/emprenedoriainnovacio10/home/activitats)
-* Activitat :five: Desenvolupar un Pla de Comunicació [go:mag](https://sites.google.com/a/eupmt.tecnocampus.cat/emprenedoriainnovacio10/home/activitats)
+* Activitat :one: Visita Area Emprenedoria Tecnocampus [go:mag:](https://sites.google.com/a/eupmt.tecnocampus.cat/emprenedoriainnovacio10/home/activitats)
+* Activitat :three: Desenvolupar un Pla de Negoci Parcialment [go:mag:](https://sites.google.com/a/eupmt.tecnocampus.cat/emprenedoriainnovacio10/home/activitats)
+* Activitat :four: Desenvolupar un Pla de Marketing [go:mag:](https://sites.google.com/a/eupmt.tecnocampus.cat/emprenedoriainnovacio10/home/activitats)
+* Activitat :five: Desenvolupar un Pla de Comunicació [go:mag:](https://sites.google.com/a/eupmt.tecnocampus.cat/emprenedoriainnovacio10/home/activitats)
+* Activitat :six: Test [go:mag:](https://sites.google.com/a/eupmt.tecnocampus.cat/emprenedoriainnovacio10/exemples)
