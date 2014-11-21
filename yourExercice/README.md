@@ -7,6 +7,10 @@ Instructions to resolve about the TEST
 
 *Third* Once finish fill out this survey [Go:mag:](https://sites.google.com/a/eupmt.tecnocampus.cat/emprenedoriainnovacio10/home/testoptatiu)
 
+*four* The exerci will be open until next sunday at 23:59 [:clock12:] THIS is a DEADLINE
+
+
+
 Questions to solve 
 
 :one: What are the different steps in the Entrepreurship process? 
@@ -27,7 +31,7 @@ Questions to solve
 
 :nine:  What do you really thing innovation is?
 
-:ten: What are the blocs of the Business Model Canvas?
+:keycap_ten: What are the blocs of the Business Model Canvas?
 
 
 ----

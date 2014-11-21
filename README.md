@@ -23,7 +23,7 @@ Informació Relativa a les Activitats de l'Assignatura
 
 ---
 
-Per realitzar l'exercici (No Operatiu :x:)
+Per realitzar l'exercici (Operatiu :heavy_check_mark:)
 
 *1.- Descarregar un client Git [Triar segons plataforma](http://git-scm.com/download)
 
@@ -37,7 +37,15 @@ A continuació editar i modificar els fitxers objecte de l'exercici (de forma lo
 
 *4.- Verificar que hi ha més d'un commit al vostre repositori de Github :octocat:
 
-*5.- Enviar a l'adreça del profe :e-mail:
+*5.- Omplir el questionari : [NO OBLIDAR:mag:](https://sites.google.com/a/eupmt.tecnocampus.cat/emprenedoriainnovacio10/home/testoptatiu)
+   * Aquí doneu les dades del vostre exercici
    * l'enllaç al vostre repositori
    * El codi SHA-1 que identifica el commit de l'estat del vostre repositori
  
+----
+
+## Atenció
+
+Teniu dos exercicis, un en el repositori _yourBusiness_ que fa referència al vostre negoci i un altre en el repositori _yourExercice_ que correspon a preguntes Test. Podeu resoldre un, els dos o cap.
+
+Recordeu a omplir el petit survey un cop finalitzat l'exercici!

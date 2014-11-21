@@ -3,7 +3,7 @@ Instructions to resolve about your business
 
 *First* this is an optional exercice, so you are encouraged to get through today.
 
-*Second* Edit a file with your answers, be sure the name of the file is your public_keyBuss.txt (i.e. 57843651Buss.txt)
+*Second* Edit a NEW file with your answers, be sure the name of the file is your public_keyBuss.txt (i.e. 57843651Buss.txt)
 
 
 Here are some questions you should be able to resolve with no big problems. 
@@ -26,7 +26,7 @@ Here are some questions you should be able to resolve with no big problems.
 
 :nine:  Who is the end user? (Customer Profile)
 
-:ten: Can you explain the Customer Research done with your start-up?
+:keycap_ten: Can you explain the Customer Research done with your start-up?
 
 
 ----
