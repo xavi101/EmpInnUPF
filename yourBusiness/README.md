@@ -6,7 +6,7 @@ Instructions to resolve about your business
 *Second* Edit a file with your answers, be sure the name of the file is your public_keyBuss.txt (i.e. 57843651Buss.txt)
 
 
-The whole file give some questions you should be able to resolve with no problems. 
+Here are some questions you should be able to resolve with no big problems. 
 
 :one: What does the start-up do?
 
